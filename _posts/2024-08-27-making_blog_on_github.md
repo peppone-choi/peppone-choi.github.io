@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "깃허브에 블로그를 팠습니다."
 --- 
 
