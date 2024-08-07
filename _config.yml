@@ -117,7 +117,7 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/4508765" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "모두와 함께 성장하고 싶은 개발자."
   location         : "어딘가에 있겠죠."
-  email            :
+  email            : "peppone.choi@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
