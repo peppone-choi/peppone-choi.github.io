@@ -306,9 +306,11 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post
+      toc: true
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      permalink: /posts/:title/
