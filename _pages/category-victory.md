@@ -1,7 +1,7 @@
 ---
 title: "승리의 기록"
 layout: archive
-permalink: /blog
+permalink: /victory
 ---
 
 {% assign posts = site.categories.victory %}
