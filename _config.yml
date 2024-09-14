@@ -314,3 +314,5 @@ defaults:
       share: true
       related: false
       permalink: /posts/:title/
+      sidebar: # 추가한 부분
+        nav: "sidebar-category" # 추가한 부분
