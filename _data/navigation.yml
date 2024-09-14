@@ -8,3 +8,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "Blog"
+        url: /blog/
+      - title: "TIL"
+        url: /til
+      - title: "개발일지"
+        url: /dev-diary
+      - title: "승리의 기록"
+        url: /victory
