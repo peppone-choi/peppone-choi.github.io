@@ -12,10 +12,10 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "Blog"
-        url: /blog/
+        url: categories/#blog
       - title: "TIL"
-        url: /til
+        url: categories/#til
       - title: "개발일지"
-        url: /dev-diary
+        url: categories/#dev-diary
       - title: "승리의 기록"
-        url: /victory
+        url: categories/#victory
